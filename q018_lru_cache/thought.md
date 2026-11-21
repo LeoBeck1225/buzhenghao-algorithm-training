@@ -1,6 +1,6 @@
 # 018. 146. LRU 缓存
 
-- LeetCode: https://leetcode.com/problems/lru-cache/
+- LeetCode: https://leetcode.cn/problems/lru-cache/
 - 分类: 设计
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

@@ -1,6 +1,6 @@
 # 012. 198. 打家劫舍
 
-- LeetCode: https://leetcode.com/problems/house-robber/
+- LeetCode: https://leetcode.cn/problems/house-robber/
 - 分类: 动态规划
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

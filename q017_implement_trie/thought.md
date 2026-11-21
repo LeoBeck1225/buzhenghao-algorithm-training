@@ -1,6 +1,6 @@
 # 017. 208. 实现 Trie (前缀树)
 
-- LeetCode: https://leetcode.com/problems/implement-trie-prefix-tree/
+- LeetCode: https://leetcode.cn/problems/implement-trie-prefix-tree/
 - 分类: 设计
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

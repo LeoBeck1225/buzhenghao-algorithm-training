@@ -1,6 +1,6 @@
 # 019. 56. 合并区间
 
-- LeetCode: https://leetcode.com/problems/merge-intervals/
+- LeetCode: https://leetcode.cn/problems/merge-intervals/
 - 分类: 排序
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

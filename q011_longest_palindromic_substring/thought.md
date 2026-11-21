@@ -1,6 +1,6 @@
 # 011. 5. 最长回文子串
 
-- LeetCode: https://leetcode.com/problems/longest-palindromic-substring/
+- LeetCode: https://leetcode.cn/problems/longest-palindromic-substring/
 - 分类: 动态规划
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

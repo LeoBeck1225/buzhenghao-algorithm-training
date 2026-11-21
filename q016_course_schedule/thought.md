@@ -1,6 +1,6 @@
 # 016. 207. 课程表
 
-- LeetCode: https://leetcode.com/problems/course-schedule/
+- LeetCode: https://leetcode.cn/problems/course-schedule/
 - 分类: 图/拓扑排序
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

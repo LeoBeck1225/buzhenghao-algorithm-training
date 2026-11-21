@@ -1,6 +1,6 @@
 # 001. 字母异位词分组（#49）
 
-- LeetCode: https://leetcode.com/problems/group-anagrams/
+- LeetCode: https://leetcode.cn/problems/group-anagrams/
 - 分类: 哈希
 - 开始时间: 2026-11-21 21:20
 - 用时: 约 20 分钟（含讨论与修正）

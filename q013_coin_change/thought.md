@@ -1,6 +1,6 @@
 # 013. 322. 零钱兑换
 
-- LeetCode: https://leetcode.com/problems/coin-change/
+- LeetCode: https://leetcode.cn/problems/coin-change/
 - 分类: 动态规划
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

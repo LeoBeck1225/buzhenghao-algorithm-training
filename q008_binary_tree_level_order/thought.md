@@ -1,6 +1,6 @@
 # 008. 102. 二叉树的层序遍历
 
-- LeetCode: https://leetcode.com/problems/binary-tree-level-order-traversal/
+- LeetCode: https://leetcode.cn/problems/binary-tree-level-order-traversal/
 - 分类: 二叉树
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

@@ -1,6 +1,6 @@
 # 002. 最长连续序列（#128）
 
-- LeetCode: https://leetcode.com/problems/longest-consecutive-sequence/
+- LeetCode: https://leetcode.cn/problems/longest-consecutive-sequence/
 - 分类: 哈希
 - 开始时间: 2026-11-21 22:00
 - 用时: 约 35 分钟

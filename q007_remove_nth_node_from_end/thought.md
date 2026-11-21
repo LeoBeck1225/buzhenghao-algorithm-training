@@ -1,6 +1,6 @@
 # 007. 19. 删除链表的倒数第 N 个结点
 
-- LeetCode: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+- LeetCode: https://leetcode.cn/problems/remove-nth-node-from-end-of-list/
 - 分类: 链表
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

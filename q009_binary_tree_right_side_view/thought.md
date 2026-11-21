@@ -1,6 +1,6 @@
 # 009. 199. 二叉树的右视图
 
-- LeetCode: https://leetcode.com/problems/binary-tree-right-side-view/
+- LeetCode: https://leetcode.cn/problems/binary-tree-right-side-view/
 - 分类: 二叉树
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

@@ -1,6 +1,6 @@
 # 015. 200. 岛屿数量
 
-- LeetCode: https://leetcode.com/problems/number-of-islands/
+- LeetCode: https://leetcode.cn/problems/number-of-islands/
 - 分类: 图/DFS
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

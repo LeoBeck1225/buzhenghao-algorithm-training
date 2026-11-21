@@ -1,6 +1,6 @@
 # 014. 300. 最长递增子序列
 
-- LeetCode: https://leetcode.com/problems/longest-increasing-subsequence/
+- LeetCode: https://leetcode.cn/problems/longest-increasing-subsequence/
 - 分类: 动态规划
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

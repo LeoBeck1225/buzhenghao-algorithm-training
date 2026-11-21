@@ -1,6 +1,6 @@
 # 010. 98. 验证二叉搜索树
 
-- LeetCode: https://leetcode.com/problems/validate-binary-search-tree/
+- LeetCode: https://leetcode.cn/problems/validate-binary-search-tree/
 - 分类: 二叉树
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

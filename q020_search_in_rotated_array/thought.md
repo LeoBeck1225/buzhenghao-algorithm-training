@@ -1,6 +1,6 @@
 # 020. 33. 搜索旋转排序数组
 
-- LeetCode: https://leetcode.com/problems/search-in-rotated-sorted-array/
+- LeetCode: https://leetcode.cn/problems/search-in-rotated-sorted-array/
 - 分类: 二分
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

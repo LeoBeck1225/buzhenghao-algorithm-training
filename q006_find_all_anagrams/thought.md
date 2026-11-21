@@ -1,6 +1,6 @@
 # 006. 438. 找到字符串中所有字母异位词
 
-- LeetCode: https://leetcode.com/problems/find-all-anagrams-in-a-string/
+- LeetCode: https://leetcode.cn/problems/find-all-anagrams-in-a-string/
 - 分类: 滑动窗口
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

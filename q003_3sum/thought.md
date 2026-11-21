@@ -1,6 +1,6 @@
 # 003. 15. 三数之和
 
-- LeetCode: https://leetcode.com/problems/3sum/
+- LeetCode: https://leetcode.cn/problems/3sum/
 - 分类: 双指针
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

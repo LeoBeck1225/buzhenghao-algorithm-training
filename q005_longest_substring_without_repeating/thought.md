@@ -1,6 +1,6 @@
 # 005. 3. 无重复字符的最长子串
 
-- LeetCode: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- LeetCode: https://leetcode.cn/problems/longest-substring-without-repeating-characters/
 - 分类: 滑动窗口
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟

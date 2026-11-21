@@ -1,6 +1,6 @@
 # 004. 11. 盛最多水的容器
 
-- LeetCode: https://leetcode.com/problems/container-with-most-water/
+- LeetCode: https://leetcode.cn/problems/container-with-most-water/
 - 分类: 双指针
 - 开始时间: ____-__-__ __:__
 - 用时: ____ 分钟
