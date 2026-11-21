@@ -3,7 +3,7 @@
 - LeetCode: https://leetcode.com/problems/group-anagrams/
 - 分类: 哈希
 - 开始时间: 2026-11-21 21:20
-- 用时: 约 50 分钟（含讨论与修正）
+- 用时: 约 20 分钟（含讨论与修正）
 
 ## 我的第一想法（未使用 AI，原文保留）
 
