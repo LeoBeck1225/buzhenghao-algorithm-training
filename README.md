@@ -11,8 +11,8 @@
 
 | # | 题目 | 分类 | 难度 | LeetCode | 状态 |
 |---|------|------|------|----------|------|
-| 001 | 49. 字母异位词分组 | 哈希 | Medium | [链接](https://leetcode.com/problems/group-anagrams/) | ⬜ 未开始 |
-| 002 | 128. 最长连续序列 | 哈希 | Medium | [链接](https://leetcode.com/problems/longest-consecutive-sequence/) | ⬜ 未开始 |
+| 001 | 49. 字母异位词分组 | 哈希 | Medium | [链接](https://leetcode.com/problems/group-anagrams/) | ✅ AC（18 ms / 击败 22.5%） |
+| 002 | 128. 最长连续序列 | 哈希 | Medium | [链接](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅ AC（48 ms / 击败 67.1%） |
 | 003 | 15. 三数之和 | 双指针 | Medium | [链接](https://leetcode.com/problems/3sum/) | ⬜ 未开始 |
 | 004 | 11. 盛最多水的容器 | 双指针 | Medium | [链接](https://leetcode.com/problems/container-with-most-water/) | ⬜ 未开始 |
 | 005 | 3. 无重复字符的最长子串 | 滑动窗口 | Medium | [链接](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ⬜ 未开始 |
@@ -51,4 +51,4 @@ qXXX_slug/
 
 ## 进度
 
-- 已完成：0 / 20
+- 已完成：2 / 20
