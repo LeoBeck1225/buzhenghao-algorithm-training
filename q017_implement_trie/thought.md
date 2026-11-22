@@ -7,7 +7,7 @@
 
 ## 我的第一想法（未使用 AI）
 
-1. 
+1. 暴力法，初始化和void直接处理，boolean直接检索。问题在于boolean startsWith(String prefix)如何处理？也是暴力法吗？
 2. 
 
 ## 复杂度
