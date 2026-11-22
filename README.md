@@ -15,7 +15,7 @@
 | 002 | 128. 最长连续序列 | 哈希 | Medium | [链接](https://leetcode.cn/problems/longest-consecutive-sequence/) | ✅ AC（48 ms / 击败 67.1%） |
 | 003 | 15. 三数之和 | 双指针 | Medium | [链接](https://leetcode.cn/problems/3sum/) | ✅ AC（501 ms / 击败 74.8%） |
 | 004 | 11. 盛最多水的容器 | 双指针 | Medium | [链接](https://leetcode.cn/problems/container-with-most-water/) | ⬜ 未开始 |
-| 005 | 3. 无重复字符的最长子串 | 滑动窗口 | Medium | [链接](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | ⬜ 未开始 |
+| 005 | 3. 无重复字符的最长子串 | 滑动窗口 | Medium | [链接](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | ✅ AC（266 ms / 击败 92.8%） |
 | 006 | 438. 找到字符串中所有字母异位词 | 滑动窗口 | Medium | [链接](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | ⬜ 未开始 |
 | 007 | 19. 删除链表的倒数第 N 个结点 | 链表 | Medium | [链接](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | ⬜ 未开始 |
 | 008 | 102. 二叉树的层序遍历 | 二叉树 | Medium | [链接](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | ⬜ 未开始 |
@@ -51,4 +51,4 @@ qXXX_slug/
 
 ## 进度
 
-- 已完成：3 / 20
+- 已完成：4 / 20
