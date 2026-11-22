@@ -16,7 +16,7 @@
 | 003 | 15. 三数之和 | 双指针 | Medium | [链接](https://leetcode.cn/problems/3sum/) | ✅ AC（501 ms / 击败 74.8%） |
 | 004 | 11. 盛最多水的容器 | 双指针 | Medium | [链接](https://leetcode.cn/problems/container-with-most-water/) | ✅ AC（115 ms / 击败 53.4%） |
 | 005 | 3. 无重复字符的最长子串 | 滑动窗口 | Medium | [链接](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | ✅ AC（266 ms / 击败 92.8%） |
-| 006 | 438. 找到字符串中所有字母异位词 | 滑动窗口 | Medium | [链接](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | ⬜ 未开始 |
+| 006 | 438. 找到字符串中所有字母异位词 | 滑动窗口 | Medium | [链接](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | ✅ AC（43 ms / 击败 54.4%） |
 | 007 | 19. 删除链表的倒数第 N 个结点 | 链表 | Medium | [链接](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | ✅ AC（0 ms / 击败 100%） |
 | 008 | 102. 二叉树的层序遍历 | 二叉树 | Medium | [链接](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | ✅ AC（0 ms / 击败 100%） |
 | 009 | 199. 二叉树的右视图 | 二叉树 | Medium | [链接](https://leetcode.cn/problems/binary-tree-right-side-view/) | ⬜ 未开始 |
@@ -69,4 +69,4 @@ qXXX_slug/
 
 ## 进度
 
-- 已完成：7 / 20
+- 已完成：8 / 20
