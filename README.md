@@ -32,6 +32,24 @@
 | 019 | 56. 合并区间 | 排序 | Medium | [链接](https://leetcode.cn/problems/merge-intervals/) | ⬜ 未开始 |
 | 020 | 33. 搜索旋转排序数组 | 二分 | Medium | [链接](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | ⬜ 未开始 |
 
+## 仓库结构
+
+```
+.
+├── README.md            # 总览与进度
+├── 对话/                # 与 AI 的完整对话记录（按日期追加）
+│   ├── 对话1.md         # 2026-11-21
+│   └── 对话2.md         # 2026-11-22
+└── qXXX_slug/           # 每道题
+    ├── thought.md       # 先写的解题思路（提交时间早于代码）
+    ├── ai_chat.md       # 该题的 AI 交互摘要（索引）
+    ├── solution.py      # 可独立运行的实现 + 自测
+    └── result.png       # LeetCode AC 截图
+```
+
+> `对话/` 为**完整往返记录**（用户原文 + AI 回复）；
+> `ai_chat.md` 是同一对话的**结构化摘要**，便于按题检索。
+
 ## 目录约定
 
 ```
