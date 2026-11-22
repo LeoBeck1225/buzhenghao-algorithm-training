@@ -13,7 +13,7 @@ class Solution:
         best = 0
         for x in s:
             if x - 1 in s:
-                continue          # 不是起点，跳过，保证每个数只被数一次
+                continue  
             y = x
             while y + 1 in s:
                 y += 1
