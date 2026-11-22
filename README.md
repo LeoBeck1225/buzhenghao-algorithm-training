@@ -28,7 +28,7 @@
 | 015 | 200. 岛屿数量 | 图/DFS | Medium | [链接](https://leetcode.cn/problems/number-of-islands/) | ✅ AC（223 ms / 击败 54.0%） |
 | 016 | 207. 课程表 | 图/拓扑排序 | Medium | [链接](https://leetcode.cn/problems/course-schedule/) | ✅ AC（3 ms / 击败 81.1%） |
 | 017 | 208. 实现 Trie (前缀树) | 设计 | Medium | [链接](https://leetcode.cn/problems/implement-trie-prefix-tree/) | ✅ AC（40 ms / 击败 91.1%） |
-| 018 | 146. LRU 缓存 | 设计 | Medium | [链接](https://leetcode.cn/problems/lru-cache/) | ⬜ 未开始 |
+| 018 | 146. LRU 缓存 | 设计 | Medium | [链接](https://leetcode.cn/problems/lru-cache/) | ✅ AC（65 ms / 击败 42.6%） |
 | 019 | 56. 合并区间 | 排序 | Medium | [链接](https://leetcode.cn/problems/merge-intervals/) | ✅ AC（6 ms / 击败 73.2%） |
 | 020 | 33. 搜索旋转排序数组 | 二分 | Medium | [链接](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | ✅ AC（0 ms / 击败 100%） |
 
@@ -69,4 +69,4 @@ qXXX_slug/
 
 ## 进度
 
-- 已完成：19 / 20
+- 已完成：20 / 20
