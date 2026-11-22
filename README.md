@@ -20,7 +20,7 @@
 | 007 | 19. 删除链表的倒数第 N 个结点 | 链表 | Medium | [链接](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | ✅ AC（0 ms / 击败 100%） |
 | 008 | 102. 二叉树的层序遍历 | 二叉树 | Medium | [链接](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | ✅ AC（0 ms / 击败 100%） |
 | 009 | 199. 二叉树的右视图 | 二叉树 | Medium | [链接](https://leetcode.cn/problems/binary-tree-right-side-view/) | ✅ AC（0 ms / 击败 100%） |
-| 010 | 98. 验证二叉搜索树 | 二叉树 | Medium | [链接](https://leetcode.cn/problems/validate-binary-search-tree/) | ⬜ 未开始 |
+| 010 | 98. 验证二叉搜索树 | 二叉树 | Medium | [链接](https://leetcode.cn/problems/validate-binary-search-tree/) | ✅ AC（1 ms / 击败 43.1%） |
 | 011 | 5. 最长回文子串 | 动态规划 | Medium | [链接](https://leetcode.cn/problems/longest-palindromic-substring/) | ⬜ 未开始 |
 | 012 | 198. 打家劫舍 | 动态规划 | Medium | [链接](https://leetcode.cn/problems/house-robber/) | ⬜ 未开始 |
 | 013 | 322. 零钱兑换 | 动态规划 | Medium | [链接](https://leetcode.cn/problems/coin-change/) | ⬜ 未开始 |
@@ -69,4 +69,4 @@ qXXX_slug/
 
 ## 进度
 
-- 已完成：9 / 20
+- 已完成：10 / 20
