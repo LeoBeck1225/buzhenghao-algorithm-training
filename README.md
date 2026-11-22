@@ -22,7 +22,7 @@
 | 009 | 199. 二叉树的右视图 | 二叉树 | Medium | [链接](https://leetcode.cn/problems/binary-tree-right-side-view/) | ✅ AC（0 ms / 击败 100%） |
 | 010 | 98. 验证二叉搜索树 | 二叉树 | Medium | [链接](https://leetcode.cn/problems/validate-binary-search-tree/) | ✅ AC（1 ms / 击败 43.1%） |
 | 011 | 5. 最长回文子串 | 动态规划 | Medium | [链接](https://leetcode.cn/problems/longest-palindromic-substring/) | ✅ AC（3113 ms / 击败 23.0%，DP） |
-| 012 | 198. 打家劫舍 | 动态规划 | Medium | [链接](https://leetcode.cn/problems/house-robber/) | ⬜ 未开始 |
+| 012 | 198. 打家劫舍 | 动态规划 | Medium | [链接](https://leetcode.cn/problems/house-robber/) | ✅ AC（0 ms / 击败 100%） |
 | 013 | 322. 零钱兑换 | 动态规划 | Medium | [链接](https://leetcode.cn/problems/coin-change/) | ⬜ 未开始 |
 | 014 | 300. 最长递增子序列 | 动态规划 | Medium | [链接](https://leetcode.cn/problems/longest-increasing-subsequence/) | ⬜ 未开始 |
 | 015 | 200. 岛屿数量 | 图/DFS | Medium | [链接](https://leetcode.cn/problems/number-of-islands/) | ⬜ 未开始 |
@@ -69,4 +69,4 @@ qXXX_slug/
 
 ## 进度
 
-- 已完成：11 / 20
+- 已完成：12 / 20
