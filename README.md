@@ -25,7 +25,7 @@
 | 012 | 198. 打家劫舍 | 动态规划 | Medium | [链接](https://leetcode.cn/problems/house-robber/) | ✅ AC（0 ms / 击败 100%） |
 | 013 | 322. 零钱兑换 | 动态规划 | Medium | [链接](https://leetcode.cn/problems/coin-change/) | ✅ AC（349 ms / 击败 98.9%） |
 | 014 | 300. 最长递增子序列 | 动态规划 | Medium | [链接](https://leetcode.cn/problems/longest-increasing-subsequence/) | ✅ AC（1276 ms / 击败 46.0%，O(n²)） |
-| 015 | 200. 岛屿数量 | 图/DFS | Medium | [链接](https://leetcode.cn/problems/number-of-islands/) | ⬜ 未开始 |
+| 015 | 200. 岛屿数量 | 图/DFS | Medium | [链接](https://leetcode.cn/problems/number-of-islands/) | ✅ AC（223 ms / 击败 54.0%） |
 | 016 | 207. 课程表 | 图/拓扑排序 | Medium | [链接](https://leetcode.cn/problems/course-schedule/) | ⬜ 未开始 |
 | 017 | 208. 实现 Trie (前缀树) | 设计 | Medium | [链接](https://leetcode.cn/problems/implement-trie-prefix-tree/) | ⬜ 未开始 |
 | 018 | 146. LRU 缓存 | 设计 | Medium | [链接](https://leetcode.cn/problems/lru-cache/) | ⬜ 未开始 |
@@ -69,4 +69,4 @@ qXXX_slug/
 
 ## 进度
 
-- 已完成：14 / 20
+- 已完成：15 / 20
